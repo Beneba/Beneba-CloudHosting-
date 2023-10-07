@@ -138,7 +138,7 @@ img {
     background: #fff;
     -webkit-transform: skewY(-3deg);
     -moz-transform: skewY(-3deg);
-    -ms-transform: skewY(-3deg);
+    -ms-transform: skewY(-3deg );
 
 
 }
